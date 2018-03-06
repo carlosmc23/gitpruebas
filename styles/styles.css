@@ -111,11 +111,12 @@ h1,h2,h3,h4,h5,h6{
     margin: 5px 0 10px 0;
     text-transform: uppercase;
     letter-spacing: 5px;
+    
 }
 
 .infoContent .block h3 a {
     color: #ffffff;
-    text-shadow: 2px 2px 3px black;
+    text-shadow: 2px 2px 5px #ddcece;
 }
 
 .infoContent .block{
